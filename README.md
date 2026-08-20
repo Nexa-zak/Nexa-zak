@@ -10,6 +10,8 @@
 
 [![Nexa](https://img.shields.io/badge/Nexa-Private_Project-8b7bff?style=for-the-badge&logo=lock&logoColor=white&labelColor=0b0f1f)]()
 
+[![Nexa](https://img.shields.io/badge/Nexa-Private_Project-8b7bff?style=for-the-badge&logo=lock&logoColor=white&labelColor=0b0f1f)]()
+
 </div>
 
 ---
@@ -39,8 +41,8 @@
 
 | لینک | آدرس |
 |---|---|
-| 📦 مخزن نکسا | [github.com/NexaClientapp/nexa](https://github.com/NexaClientapp/nexa) |
-| ⬇️ آخرین ریلیز | [Releases](https://github.com/NexaClientapp/nexa/releases) |
+| 📦 مخزن نکسا | خصوصی · Private (Invite Only) |
+| ⬇️ دریافت نکسا | فقط با دعوت مالک · By Owner Invite Only |
 | 🎛️ پنل مدیریت | [nexa-panel.zak190.workers.dev/panel](https://nexa-panel.zak190.workers.dev/panel) |
 | 🤖 بات پشتیبانی | [@NexaSupporttBot](https://t.me/NexaSupporttBot) |
 
@@ -49,8 +51,8 @@
 ## 📊 وضعیت گیت‌هاب من
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NexaClientapp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f1f&title_color=8b7bff&icon_color=26d3ee&text_color=eef1fb" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexaClientapp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f1f&title_color=8b7bff&text_color=eef1fb" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nexa-zak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f1f&title_color=8b7bff&icon_color=26d3ee&text_color=eef1fb" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexa-zak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f1f&title_color=8b7bff&text_color=eef1fb" height="160" />
 </div>
 
 ---
