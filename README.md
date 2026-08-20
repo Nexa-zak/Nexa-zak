@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/NexaClientapp/nexa/main/assets/nexa-n-avatar.png" width="140" style="border-radius:50%; box-shadow:0 10px 40px rgba(139,123,255,.35)" />
 
-# 👋 سلام! من امیرحسامم
-### Hi, I'm Amir Hesam Fathalian
+# 👋 سلام! من zak
+### Hi, I'm zak
 
 **👑 بنیان‌گذار و Owner نکسا · Founder & Owner of <a href="https://github.com/NexaClientapp/nexa">Nexa</a>**
 
