@@ -1,17 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NexaClientapp/nexa/main/assets/nexa-n-avatar.png" width="140" style="border-radius:50%; box-shadow:0 10px 40px rgba(139,123,255,.35)" />
+<img src="https://raw.githubusercontent.com/Nexa-zak/Nexa-zak/main/nexa-n-avatar.png" width="140" style="border-radius:50%; box-shadow:0 10px 40px rgba(139,123,255,.35)" />
 
 # 👋 سلام! من zak
 ### Hi, I'm zak
 
-**👑 بنیان‌گذار و Owner نکسا · Founder & Owner of <a href="https://github.com/NexaClientapp/nexa">Nexa</a>**
+**👑 بنیان‌گذار و Owner نکسا · Founder & Owner of Nexa**
 
-<img src="https://raw.githubusercontent.com/NexaClientapp/nexa/main/assets/nexa-n-avatar.gif" width="72" style="border-radius:50%" />
 
-[![Nexa Stars](https://img.shields.io/github/stars/NexaClientapp/nexa?style=for-the-badge&logo=github&labelColor=0b0f1f&color=8b7bff)](https://github.com/NexaClientapp/nexa)
-[![Latest Release](https://img.shields.io/github/v/release/NexaClientapp/nexa?style=for-the-badge&labelColor=0b0f1f&color=26d3ee)](https://github.com/NexaClientapp/nexa/releases)
-[![License](https://img.shields.io/github/license/NexaClientapp/nexa?style=for-the-badge&labelColor=0b0f1f&color=34d399)](https://github.com/NexaClientapp/nexa/blob/main/LICENSE)
+[![Nexa](https://img.shields.io/badge/Nexa-Private_Project-8b7bff?style=for-the-badge&logo=lock&logoColor=white&labelColor=0b0f1f)]()
 
 </div>
 
