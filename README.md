@@ -8,7 +8,11 @@
 **👑 بنیان‌گذار و Owner نکسا · Founder & Owner of Nexa**
 
 
+[![Website](https://img.shields.io/badge/🌐_nexa--zak.github.io-26d3ee?style=for-the-badge&labelColor=0b0f1f)](https://nexa-zak.github.io)
+
 [![Nexa](https://img.shields.io/badge/Nexa-Private_Project-8b7bff?style=for-the-badge&logo=lock&logoColor=white&labelColor=0b0f1f)]()
+
+[![Website](https://img.shields.io/badge/🌐_nexa--zak.github.io-26d3ee?style=for-the-badge&labelColor=0b0f1f)](https://nexa-zak.github.io)
 
 [![Nexa](https://img.shields.io/badge/Nexa-Private_Project-8b7bff?style=for-the-badge&logo=lock&logoColor=white&labelColor=0b0f1f)]()
 
