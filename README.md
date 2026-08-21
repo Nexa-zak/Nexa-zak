@@ -10,11 +10,17 @@
 
 [![Website](https://img.shields.io/badge/🌐_nexa--zak.github.io-26d3ee?style=for-the-badge&labelColor=0b0f1f)](https://nexa-zak.github.io)
 
-[![Nexa](https://img.shields.io/badge/Nexa-Private_Project-8b7bff?style=for-the-badge&logo=lock&logoColor=white&labelColor=0b0f1f)]()
+[![Nexa](https://img.shields.io/badge/Nexa-Free_for_Everyone-34d399?style=for-the-badge&logo=chrome&logoColor=white&labelColor=0b0f1f)](https://nexa-zak.github.io)
+
+[![Stars](https://img.shields.io/github/stars/Nexa-zak/nexa?style=for-the-badge&logo=github&labelColor=0b0f1f&color=8b7bff)](https://github.com/Nexa-zak/nexa)
+[![Release](https://img.shields.io/github/v/release/Nexa-zak/nexa?style=for-the-badge&labelColor=0b0f1f&color=26d3ee)](https://github.com/Nexa-zak/nexa/releases)
 
 [![Website](https://img.shields.io/badge/🌐_nexa--zak.github.io-26d3ee?style=for-the-badge&labelColor=0b0f1f)](https://nexa-zak.github.io)
 
-[![Nexa](https://img.shields.io/badge/Nexa-Private_Project-8b7bff?style=for-the-badge&logo=lock&logoColor=white&labelColor=0b0f1f)]()
+[![Nexa](https://img.shields.io/badge/Nexa-Free_for_Everyone-34d399?style=for-the-badge&logo=chrome&logoColor=white&labelColor=0b0f1f)](https://nexa-zak.github.io)
+
+[![Stars](https://img.shields.io/github/stars/Nexa-zak/nexa?style=for-the-badge&logo=github&labelColor=0b0f1f&color=8b7bff)](https://github.com/Nexa-zak/nexa)
+[![Release](https://img.shields.io/github/v/release/Nexa-zak/nexa?style=for-the-badge&labelColor=0b0f1f&color=26d3ee)](https://github.com/Nexa-zak/nexa/releases)
 
 </div>
 
@@ -45,8 +51,8 @@
 
 | لینک | آدرس |
 |---|---|
-| 📦 مخزن نکسا | خصوصی · Private (Invite Only) |
-| ⬇️ دریافت نکسا | فقط با دعوت مالک · By Owner Invite Only |
+| 📦 مخزن نکسا | [github.com/Nexa-zak/nexa](https://github.com/Nexa-zak/nexa) |
+| ⬇️ دریافت نکسا | [دانلود رایگان از سایت](https://nexa-zak.github.io) |
 | 🎛️ پنل مدیریت | [nexa-panel.zak190.workers.dev/panel](https://nexa-panel.zak190.workers.dev/panel) |
 | 🤖 بات پشتیبانی | [@NexaSupporttBot](https://t.me/NexaSupporttBot) |
 
