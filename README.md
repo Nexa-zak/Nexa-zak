@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Nexa-zak/Nexa-zak/main/nexa-n-avatar.png" width="140" style="border-radius:50%; box-shadow:0 10px 40px rgba(139,123,255,.35)" />
 
-# 👋 سلام من zak هستنم
+# 👋 سلام من zak هستم 
 ### Hi, I'm zak
 
 **👑 بنیان‌گذار و Owner نکسا · Founder & Owner of Nexa**
